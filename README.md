@@ -1,1 +1,2 @@
-# CovCoagExposureDiagnostics
+diagCovCoagExposures Package
+===============

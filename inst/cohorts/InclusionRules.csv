@@ -1,0 +1,5 @@
+cohortName,ruleSequence,ruleName,cohortId
+COVID19 diagnosis broad,0,No diagnosis between 1st Jan to 1st March 2020,38
+COVID19 diagnosis narrow,0,No diagnosis between 1st Jan to 1st March 2020,39
+COVID19 PCR positive test,0,No PCR positive test between 1st Jan to 1st March 2020,16
+COVID19 positive test,0,No positive test between 1st Jan to 1st March 2020,14
