@@ -3,3 +3,5 @@ extras/CodeToRun_local.R
 .Rhistory
 .Rproj.user/*
 .Rproj.user/6A87EE9C/cpp-definition-cache
+postgresql-42.2.18.jar
+.Rprofile
